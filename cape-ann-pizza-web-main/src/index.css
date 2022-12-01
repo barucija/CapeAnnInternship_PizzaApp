@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  transition: .3s linear; 
+}
+
+body{
+  /* margin: 2% 5%; */
+  /* background-color: #272629; */
+  background-color: #333333;
+}
+
+h4, h2, h3, p{
+  color: white;
+  
+}
+
+

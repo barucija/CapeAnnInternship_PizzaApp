@@ -1,0 +1,133 @@
+/* .box{
+    background-color: #222026;
+    border-radius: .5rem;
+    padding:2rem;
+    text-align: center;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+} */
+
+.wholeFooterDiv {
+    /* background-color: #333333; */
+    background-color: #272629;
+    padding: 40px 0 15px 0;
+}
+
+.boxNew {
+    padding: 1rem;
+    text-align: left;
+}
+
+.headerFooter{
+    font-size: 20px;
+    border-bottom: 1px solid #FDBC13;
+    padding: 0 5px 5px 5px;
+    width: fit-content;
+}
+
+.contentFooter{
+    margin-top: 1rem;
+}
+
+.subHeaderFooter{
+    font-size: 14px;
+    color: white;
+}
+
+.textFooter{
+    font-size: 14px;
+}
+
+.textFooterLinks {
+    margin-bottom: 20px;
+}
+
+.footerLinks{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.footerLinks:hover{
+    color: #FDBC13;
+}
+
+.iconsFooter{
+    font-size: 16px;
+    color: white;
+    display: flex;
+}
+
+.iconsFooter > .css-i4bv87-MuiSvgIcon-root {
+    font-size: 16px;
+}
+
+.iconsFooterFB{
+    margin-right: 10px;
+}
+
+.iconsFooterIG{
+    margin-right: 10px;
+}
+
+.iconsFooterFB:hover{
+    color: #FDBC13;
+}
+
+.iconsFooterIG:hover{
+    color: #FDBC13;
+}
+
+.iconsFooterLI:hover{
+    color: #FDBC13;
+}
+
+/* .box .icon{
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    color: white;
+    background-color: #C97642;
+    border-radius: 50%;
+    margin: 0 auto;
+} */
+
+/* .box .text{
+    margin-top: 1rem;
+}
+
+.box .text h3{
+    margin: 1rem 0;
+    text-transform: capitalize;
+    font-size: 1.6rem;
+}
+
+.box .text p{
+    line-height: 2;
+    font-size:  1rem;
+    color: #C97642;
+} */
+
+/* .credit {
+    text-align: center;
+    margin-top: 3rem;
+    padding: 1rem 0rem;
+    border-top: #C97642 2px solid;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.credit span {
+    color: #C97642;
+} */
+
+.credit{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.credit span {
+    color: #FDBC13;
+}

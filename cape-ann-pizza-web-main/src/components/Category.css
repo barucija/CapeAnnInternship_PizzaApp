@@ -1,0 +1,35 @@
+.wholeCategoryDiv .MuiButtonGroup-grouped {
+    background-color: #f7bc4e;
+    color: #000000;
+}
+
+.wholeCategoryDiv .css-zqcytf-MuiButtonGroup-root{
+    box-shadow: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.categoryOptions {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.categoryOptions .MuiButtonBase-root {
+    font-size: 16px;
+    background: #333333;
+    border: 1px solid #f7bc4e;
+    color: #f7bc4e;
+}
+
+.categoryOptions .MuiButtonBase-root:hover {
+    background: #f7bc4e;
+    border: 1px solid #f7bc4e;
+    color: #000000;
+}
+
+.categoryOptions .MuiButtonBase-root:focus {
+    background: #f7bc4e;
+    border: 1px solid #f7bc4e;
+    color: #000000;
+}

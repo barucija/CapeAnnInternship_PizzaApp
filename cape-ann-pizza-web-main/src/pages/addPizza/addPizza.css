@@ -1,0 +1,69 @@
+.add-pizza-form input,
+.add-pizza-form select,
+.add-pizza-form textarea,
+.add-pizza-form button {
+  font-family: inherit;
+  font-size: 100%;
+  border-radius: 1rem;
+  background-color: #272629;
+  color: white;
+}
+
+select{
+    appearance: none;
+}
+
+
+textarea{
+    resize: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+   
+}
+
+.add-pizza-form h1{
+    margin-bottom: 1.5rem;
+    color: #f27121;
+    text-align: center;
+}
+
+.add-pizza-form li{
+    margin-bottom: 1.5rem;
+}
+
+.add-pizza-form select,
+.add-pizza-form input,
+.add-pizza-form textarea,
+.add-pizza-form button{
+    width: 100%;
+    line-height: 1.5;
+    padding: 15px 10px;
+    border-bottom: 1px solid grey;
+}
+
+.add-pizza-form button{
+        background-color: #C97642;
+}
+
+.add-pizza-form .error{
+    color: red;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.add-pizza-form label{
+    font-size:  1rem;
+    color: #C97642;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+}
